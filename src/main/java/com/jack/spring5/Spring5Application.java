@@ -3,6 +3,9 @@ package com.jack.spring5;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * @author zq
+ */
 @SpringBootApplication
 public class Spring5Application {
 
